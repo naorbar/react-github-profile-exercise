@@ -1,0 +1,30 @@
+.AppBar {
+  margin-bottom: 10px;
+}
+
+.Name {
+  font-size: 24px;
+}
+
+.Bio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 250px;
+  color: grey;
+}
+
+.Tab {
+  line-height: 10px;
+  text-transform: capitalize;
+}
+
+.Counter {
+  background-color: rgba(27,31,35,.08);
+  border-radius: 20px;
+  color: #586069;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 10px;
+  padding: 18px 11px 0px 10px;
+}
